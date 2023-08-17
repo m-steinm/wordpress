@@ -1,0 +1,18 @@
+/*
+Theme Name: wine-list-2023
+Author: Max Steinmetz
+Author URI: https://www.maxsteinmetz.com
+Description: Theme for wine list
+Version: 0.1 
+Requires at least: 5.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: winelist2023
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+body{
+	background: #4af2a1;
+}
